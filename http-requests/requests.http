@@ -1,0 +1,8 @@
+## get single person
+
+GET http://localhost:8080/api/persons/2
+
+
+### get single vehicle
+
+GET http://localhost:8080/api/vehicles/2
